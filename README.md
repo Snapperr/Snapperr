@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mikaila Kafka Akmalsyah</h1>
 <h3 align="center">A students from State Polytechnic of Malang</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/Snapperr/Snapperr/assets/74232848/dd5a9ddf-a1f1-4a1f-b2ec-b162f9693242">
+<img align="right" alt="gif" width="400" src="https://github.com/Snapperr/Snapperr/assets/74232848/dd5a9ddf-a1f1-4a1f-b2ec-b162f9693242">
 
 - 🌱 I’m currently learning **about myself**
 
