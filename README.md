@@ -3,11 +3,11 @@
 
 <img align="right" alt="gif" width="400" src="https://i.pinimg.com/originals/3b/62/66/3b6266cf591c009dc3e8726c04513e9d.gif">
 
-- 🌱 I’m currently learning **about myself**
+- I’m currently learning **about myself**
 
-- 📫 How to reach me **mikaila082@gmail.com**
+- How to reach me **mikaila082@gmail.com**
 
-- ⚡ Fun fact **I am always happy even though I am sad**
+- Fun fact **I am always happy even though I am sad**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
