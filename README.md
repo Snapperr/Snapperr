@@ -12,7 +12,7 @@
 <a href="https://linkedin.com/in/mikaila kafka akmalsyah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mikaila kafka akmalsyah" height="30" width="40" /></a>
 <a href="https://fb.com/mikaila kafka (kapp)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mikaila kafka (kapp)" height="30" width="40" /></a>
 <a href="https://instagram.com/kapkakapp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kapkakapp" height="30" width="40" /></a>
-<a href="https://discord.gg/449451513635405856" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="449451513635405856" height="30" width="40" /></a>
+<a href="https://discord.gg/259409057474019328" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="259409057474019328" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
