@@ -5,7 +5,7 @@
 
 - I’m currently learning **about myself**
 
-- How to reach me **mikaila082@gmail.com**
+- Email me at **mikaila082@gmail.com**
 
 - Fun fact **I am always happy even though I am sad**
 
