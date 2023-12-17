@@ -1,5 +1,7 @@
 <h1 align="center">Hello , I'm Mikaila Kafka Akmalsyah</h1>
 <h3 align="center">A students from State Polytechnic of Malang</h3>
+<h3 align="center">Information Technology Major</h3>
+<h3 align="center">Study Program Informatics Engineering</h3>
 
 <img align="right" alt="gif" width="500" src="https://i.pinimg.com/originals/3b/62/66/3b6266cf591c009dc3e8726c04513e9d.gif">
 
