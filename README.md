@@ -1,7 +1,9 @@
 <h1 align="center">Hello , I'm Mikaila Kafka Akmalsyah</h1>
 <h3 align="center">A students from State Polytechnic of Malang</h3>
 
-<img align="right" alt="gif" width="400" src="https://i.pinimg.com/originals/3b/62/66/3b6266cf591c009dc3e8726c04513e9d.gif">
+<img align="right" alt="gif" width="500" src="https://i.pinimg.com/originals/3b/62/66/3b6266cf591c009dc3e8726c04513e9d.gif">
+
+<h2 align="left"> About Me : </h2>
 
 - I’m currently learning **about myself**
 
@@ -15,7 +17,7 @@
 <a href="https://fb.com/kafka.akmalsyah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kafka.akmalsyah" height="30" width="40" /></a>
 <a href="https://instagram.com/kapkakapp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kapkakapp" height="30" width="40" /></a>
 <a href="https://discord.gg/449451513635405856" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="449451513635405856" height="30" width="40" /></a>
-<a href="https://open.spotify.com/user/bcdtjahz88lipemwi7qmlgj8j" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Spotify_App_Logo.svg/1200px-Spotify_App_Logo.svg.png" height="30" width="40" /></a>
+<a href="https://open.spotify.com/user/bcdtjahz88lipemwi7qmlgj8j" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/spotify.svg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">The language I'm interested in :</h3>
