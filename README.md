@@ -3,7 +3,7 @@
 <h3 align="center">Information Technology Major</h3>
 <h3 align="center">Study Program Informatics Engineering</h3>
 
-<img align="right" alt="gif" width="500" src="https://i.pinimg.com/originals/3b/62/66/3b6266cf591c009dc3e8726c04513e9d.gif">
+<img align="right" alt="gif" width="450" src="https://i.pinimg.com/originals/3b/62/66/3b6266cf591c009dc3e8726c04513e9d.gif">
 
 <h2 align="left"> About Me : </h2>
 
