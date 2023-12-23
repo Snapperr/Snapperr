@@ -5,7 +5,7 @@
 
 <img align="right" alt="gif" width="450" src="https://i.pinimg.com/originals/3b/62/66/3b6266cf591c009dc3e8726c04513e9d.gif">
 
-<h2 align="left"> About Me : </h2>
+<h1 align="left"> About Me : </h1>
 
 - I’m currently learning **about myself**
 
