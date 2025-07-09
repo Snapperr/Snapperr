@@ -11,7 +11,7 @@
 
 - Email me at **mikaila082@gmail.com**
 
-- Fun fact **I am always happy even though I am sad**
+- Fact about me **I am always happy even though I am sad**
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
