@@ -1,40 +1,57 @@
-<h1 align="center">Hey there, I'm Mikaila Kafka 👋</h1>
-<h3 align="center">Informatics Engineering Student @ State Polytechnic of Malang</h3>
+<h1 align="center">Hi, I'm Mikaila Kafka 👋</h1>
+<h3 align="center">Software Engineering Enthusiast | Informatics Engineering Student</h3>
 
 <p align="center">
-  <em>"Building things, breaking things, then understanding how they work."</em>
+  <em>“I don’t just build applications — I build systems that solve problems.”</em>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧠 Profile
 
-- 🎓 Currently studying **Informatics Engineering**
-- 💻 Focused on **Web Development & Software Engineering**
-- 🌱 Always learning: Laravel, JavaScript, and modern web ecosystem
-- 🧠 I enjoy turning ideas into real working systems
-- 📍 Based in Indonesia
-- 📫 Reach me at: **mikaila082@gmail.com**
+I’m an Informatics Engineering student who focuses on understanding how software works beyond the surface level.
 
-> ⚡ Fun fact: I act like I’m always okay, but my debug console says otherwise.
+My main interest lies in building reliable, scalable, and maintainable systems — starting from web applications and gradually expanding into broader software engineering practices.
+
+I enjoy learning by building real projects, breaking them, and improving them iteratively.
 
 ---
 
-## 🧑‍💻 Tech Stack
+## 💻 Technical Focus
 
-### 🌐 Web & Programming
+- Web Development (Laravel, PHP, JavaScript)
+- Backend Development & API Design
+- Software Architecture Fundamentals
+- Database Design & Optimization
+- Learning System Design & Scalable Applications
+
+---
+
+## ⚙️ Tech Stack
+
+### Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,php,java,laravel" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,javascript,java,html,css" />
 </p>
 
-### 🛠 Tools & Environment
+### Tools & Environment
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,docker" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Engineering Mindset
+
+- Writing code that is **readable before clever**
+- Building features with **real-world constraints in mind**
+- Preferring **clean structure over quick hacks**
+- Iterating through feedback and continuous improvement
+- Thinking in terms of **systems, not just pages**
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="160"/>
@@ -47,21 +64,15 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
-<p align="left">
-<a href="https://linkedin.com/in/mikailakafka" target="_blank">LinkedIn</a> •
-<a href="https://instagram.com/kapkakapp" target="_blank">Instagram</a> •
-<a href="https://discord.gg/449451513635405856" target="_blank">Discord</a> •
-<a href="https://open.spotify.com/user/bcdtjahz88lipemwi7qmlgj8j" target="_blank">Spotify</a>
-</p>
+- LinkedIn: https://linkedin.com/in/mikailakafka  
+- Instagram: https://instagram.com/kapkakapp  
+- Discord: 449451513635405856  
+- Email: mikaila082@gmail.com  
 
 ---
 
-## ⚙️ Current Focus
-
-```text
-- Building Laravel projects with real-world use cases
-- Improving backend architecture & API design
-- Exploring deployment & DevOps basics
-- Learning to write cleaner, scalable code
+<p align="center">
+  <b>“Good software is not written — it is engineered.”</b>
+</p>
