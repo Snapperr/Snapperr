@@ -80,7 +80,7 @@ I focus on building projects that simulate real-world use cases such as:
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
-  <a href="https://discord.gg/users/449451513635405856" target="_blank">
+  <a href="https://discord.com/users/449451513635405856" target="_blank">
     <img src="https://img.shields.io/badge/Discord-Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 
