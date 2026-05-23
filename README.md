@@ -54,7 +54,7 @@ I enjoy learning by building real projects, breaking them, and improving them it
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mikailakafka&show_icons=true&theme=radical" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="160"/>
 </p>
 
