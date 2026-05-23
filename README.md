@@ -77,7 +77,7 @@ I focus on building projects that simulate real-world use cases such as:
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikailakafka&theme=highcontrast"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Snapperr&theme=highcontrast"/>
 </p>
 
 ---
