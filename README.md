@@ -1,19 +1,19 @@
 <h1 align="center">Hi, I'm Mikaila Kafka 👋</h1>
-<h3 align="center">Software Engineering Enthusiast | Informatics Engineering Student</h3>
+<h3 align="center">Informatics Engineering Student | Software Engineering Enthusiast</h3>
 
 <p align="center">
-  <em>“I don’t just build applications — I build systems that solve problems.”</em>
+  <em>Building reliable software with clean architecture and practical problem solving.</em>
 </p>
 
 ---
 
-## 🧠 Profile
+## 🧠 About Me
 
-I’m an Informatics Engineering student who focuses on understanding how software works beyond the surface level.
+I am an Informatics Engineering student focused on building software that is not only functional, but also maintainable and scalable.
 
-My main interest lies in building reliable, scalable, and maintainable systems — starting from web applications and gradually expanding into broader software engineering practices.
+My main direction is transitioning from web development into broader software engineering practices, including backend systems, API design, and software architecture fundamentals.
 
-I enjoy learning by building real projects, breaking them, and improving them iteratively.
+I enjoy learning through real-world projects, debugging complex issues, and continuously improving system design thinking.
 
 ---
 
@@ -21,9 +21,9 @@ I enjoy learning by building real projects, breaking them, and improving them it
 
 - Web Development (Laravel, PHP, JavaScript)
 - Backend Development & API Design
-- Software Architecture Fundamentals
 - Database Design & Optimization
-- Learning System Design & Scalable Applications
+- Software Engineering Fundamentals
+- System Design (currently learning & improving)
 
 ---
 
@@ -41,38 +41,47 @@ I enjoy learning by building real projects, breaking them, and improving them it
 
 ---
 
-## 📌 Engineering Mindset
+## 📌 Engineering Principles
 
-- Writing code that is **readable before clever**
-- Building features with **real-world constraints in mind**
-- Preferring **clean structure over quick hacks**
-- Iterating through feedback and continuous improvement
-- Thinking in terms of **systems, not just pages**
+- Write code that is readable before it is clever
+- Prefer maintainability over short-term speed
+- Design with scalability in mind
+- Treat every project as a learning system
+- Debugging is part of engineering, not failure
 
 ---
 
-## 📊 GitHub Analytics
+## 📂 Projects Mindset
+
+I focus on building projects that simulate real-world use cases such as:
+
+- Authentication systems
+- CRUD-based business applications
+- API-driven architecture
+- Admin dashboards
+- Role-based access control systems
+
+> I prefer depth in fewer projects rather than shallow many projects.
+
+---
+
+## 📫 Contact
+
+- Email: **mikaila082@gmail.com**
+- LinkedIn: https://linkedin.com/in/mikailakafka
+- Instagram: https://instagram.com/kapkakapp
+- Discord: 449451513635405856
+
+---
+
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mikailakafka&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikailakafka&theme=highcontrast"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=highcontrast"/>
-</p>
-
----
-
-## 🌐 Connect
-
-- LinkedIn: https://linkedin.com/in/mikailakafka  
-- Instagram: https://instagram.com/kapkakapp  
-- Discord: 449451513635405856  
-- Email: mikaila082@gmail.com  
-
 ---
 
 <p align="center">
-  <b>“Good software is not written — it is engineered.”</b>
+  <b>“Engineering is about solving problems that stay solved.”</b>
 </p>
