@@ -2,31 +2,28 @@
 <h3 align="center">Informatics Engineering Student | Software Engineering Enthusiast</h3>
 
 <p align="center">
-  <em>Building reliable, maintainable, and scalable software through clean architecture and practical problem-solving.</em>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/mikailakafka"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mikaila082@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Snapperr"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <em>Building reliable software with clean architecture and practical problem solving.</em>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I am an **Informatics Engineering** student focused on software engineering practices, clean architecture, and modern system design. 
+I am an Informatics Engineering student focused on building software that is not only functional, but also maintainable and scalable.
 
-My journey centers around backend development, designing robust APIs, and optimizing database performance. I enjoy solving real-world technical problems, learning through hands-on project implementations, and continuously refining my engineering workflow.
+My main direction is transitioning from web development into broader software engineering practices, including backend systems, API design, and software architecture fundamentals.
+
+I enjoy learning through real-world projects, debugging complex issues, and continuously improving system design thinking.
 
 ---
 
-## 💻 Technical Focus & Skills
+## 💻 Technical Focus
 
-- **Backend & API Design:** RESTful APIs, Clean Architecture, Role-Based Access Control (RBAC)
-- **Web Development:** Laravel, PHP, JavaScript, Modern Web Stack
-- **Database Engineering:** Relational Database Design, Query Optimization, Normalization
-- **Systems & Infrastructure:** Docker Containerization, Linux Environments, Version Control (Git)
+- Web Development (Laravel, PHP, JavaScript)
+- Backend Development & API Design
+- Database Design & Optimization
+- Software Engineering Fundamentals
+- System Design (currently learning & improving)
 
 ---
 
@@ -34,49 +31,70 @@ My journey centers around backend development, designing robust APIs, and optimi
 
 ### Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,javascript,java,html,css" alt="Languages and Frameworks" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,javascript,java,html,css" />
 </p>
 
-### Tools & Infrastructure
+### Tools & Environment
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,docker,postman,mysql" alt="Tools and Infrastructure" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,docker" />
 </p>
 
 ---
 
 ## 📌 Engineering Principles
 
-* **Readability First:** Write code that is easy to understand before making it clever.
-* **Maintainability Over Speed:** Prioritize long-term code quality over short-term quick fixes.
-* **Scalable Thinking:** Design database schemas and system architecture with growth in mind.
-* **Continuous Debugging:** Treat debugging as a core engineering process, not a failure.
+- Write code that is readable before it is clever
+- Prefer maintainability over short-term speed
+- Design with scalability in mind
+- Treat every project as a learning system
+- Debugging is part of engineering, not failure
 
 ---
 
-## 📊 GitHub Analytics
+## 📂 Projects Mindset
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Snapperr&show_icons=true&theme=dark&hide_border=true" alt="Snapperr's GitHub Stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Snapperr&theme=dark&hide_border=true" alt="Snapperr's Streak Stats" />
-</p>
+I focus on building projects that simulate real-world use cases such as:
+
+- Authentication systems
+- CRUD-based business applications
+- API-driven architecture
+- Admin dashboards
+- Role-based access control systems
+
+> I prefer depth in fewer projects rather than shallow many projects.
 
 ---
 
-## 📫 Connect with Me
+## 📫 Contact Me
 
 <p align="center">
   <a href="mailto:mikaila082@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
   <a href="https://linkedin.com/in/mikailakafka" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="https://instagram.com/kapkakapp" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+
   <a href="https://discord.com/users/449451513635405856" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Discord-Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
+
+  <a href="https://github.com/Snapperr" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Snapperr&theme=highcontrast"/>
 </p>
 
 ---
